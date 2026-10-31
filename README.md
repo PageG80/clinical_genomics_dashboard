@@ -68,9 +68,9 @@ clinical-genomics-registry/
 │   └── genomics_registry.db    # SQLite database (Synthetic patient variant data)
 │
 └── screenshots/
-    ├── dashboard1.png      #Main dashboard
-    ├── dashboard2.png #ACMG & Variant frequency breakdown 
-    └── dashboard3.png  #Searchable patient registry 
+    ├── dashboard1.png      # Main dashboard
+    ├── dashboard2.png # ACMG & Variant frequency breakdown 
+    └── dashboard3.png  # Searchable patient registry 
 ```
 
 ## 📸 Additional Dashboard Views
