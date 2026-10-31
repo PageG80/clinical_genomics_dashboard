@@ -72,10 +72,13 @@ clinical-genomics-registry/
     ├── dashboard2.png # ACMG & Variant frequency breakdown 
     └── dashboard3.png  # Searchable patient registry 
 
-📸 Additional Dashboard Views
+
+# 📸 Additional Dashboard Views
 1. Pathogenicity & Variant Frequency Analytics
 2. Searchable Variant Registry & TAT Logs
-⚙️ Installation & Local Setup
+
+
+# ⚙️ Installation & Local Setup
 To run this dashboard locally on your machine:
 
 Clone the repository:
