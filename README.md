@@ -10,7 +10,7 @@ A clinical-grade registry and operational intelligence platform designed for Gen
 ![Frequency_distribution](screenshots/dashboard2.png)
 ![Searchable_patients](screenshots/dashboard3.png)
 
-> **Live Interactive Demo:** *[Insert Streamlit Cloud Link Here]*
+> **Live Interactive Demo:** [Launch Dashboard](https://clinical-genomics-dashboard-1.streamlit.app/)
 
 ---
 
