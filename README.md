@@ -4,8 +4,7 @@ A clinical-grade registry and operational intelligence platform designed for Gen
 
 ---
 
-## 📊 Dashboard Preview
-![Clinical Genomics Dashboard Preview]
+## 📊 Clinical Genomics Dashboard Preview
 ![Main_Dashboard](screenshots/dashboard1.png)
 ![Frequency_distribution](screenshots/dashboard2.png)
 ![Searchable_patients](screenshots/dashboard3.png)
